@@ -1,0 +1,25 @@
+*
+{
+    background-color: antiquewhite;
+    text-align: justify;
+}
+p
+{
+    color: black;
+    font-size: 18px;
+}
+.p1
+{
+    color: darkblue;
+    padding-left: 20px;
+}
+.underline
+{
+    text-decoration: underline;
+    font-size: 25px;
+}
+.the-end
+{
+    text-align: center;
+    font: bold;
+}
